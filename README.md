@@ -230,6 +230,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 - [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
+- [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
+- [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
 
 ### White Board
 
@@ -260,6 +262,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Texts
 
+- [Bold Text Generator](https://99tools.net/bold-text-generator/) - Easily generate bold text.
 - [Word Counter](https://freecodetools.org/word-counter/) - Word counter.
 - [Text Faces](https://textfac.es/) - Write Unicode faces.
 - [Title Case](https://titlecase.com/) - Convert a text into all kinds of cases.
@@ -331,6 +334,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
 - [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
+- [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
+- [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
 
 ### Data Entry
 
@@ -525,6 +530,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [AllMusic](https://www.allmusic.com/) - Provides comprehensive and in-depth information on albums, artists, songs, and bands, serving as a valuable resource for music enthusiasts.
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
 - [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
+- [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
 
 ### Find Music
 
@@ -707,8 +713,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Discover the best startup jobs curated by Y Combinator.
 - [Coroflot](https://www.coroflot.com/discover) - Job search platform specifically tailored for designers.
 - [Cool Startup Jobs](https://www.coolstartupjobs.com/) - Explore job opportunities in growing startups and give your stock options a chance.
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Free daily-updated Canadian student and recent-graduate jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 - [Anon Friendly](https://anonfriendly.com/) - Find jobs that respect your desire for anonymity.
 - [Prompt Engineering Jobs](https://prompt-engineering-jobs.com) - Explore engineering job opportunities with Prompt.
+- [AI Dev Jobs](https://aidevboard.com) - AI/ML-focused job board with 7,700+ positions from 440+ companies, including a free REST API and MCP server for AI-powered job search.
 - [KeyValues](https://www.keyvalues.com/) - Find engineering teams that align with your values.
 - [About.me](https://about.me/) - Platform for freelancers and entrepreneurs to grow their audience and attract clients.
 - [Rejected.us](https://rejected.us/) - Read and share stories of job rejections.
@@ -1288,6 +1296,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Engineer on a Disk: Modeling](https://engineeronadisk.com/book_modeling/modelTOC.html) - A book offering a hands-on guide to system modeling and simulation, with practical examples and explanations for engineers and developers.
 - [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/) - Collection of articles on design and technology by Bartosz Ciechanowski.
 - [IQS Directory Articles](https://www.iqsdirectory.com/articles/) - Industrial components explained through technical articles and manufacturer insights.
+- [Printable Graph Paper](https://printablegraphpaper.org/) - Printable Graph Paper with various templates
 
 ### Civil Engineering
 
@@ -1754,6 +1763,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [XN--1-ZFA](https://xn--1-zfa.com/) - Advanced search for Google, DuckDuckGo, Twitter, YouTube, Reddit.
 - [Seekr](https://www.seekr.com/) - Search engine that utilizes AI to analyze and score the quality of content, starting with news articles.
 - [Million Short](https://millionshort.com/) - Discover content beyond the first million search results.
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools, indexing 1,750+ MCP servers and developer APIs with agentic compatibility scores.
 
 ### Internet
 
@@ -2110,13 +2120,13 @@ Each website is included only once. Some websites can fall into multiple categor
 - If you want to add a new category or website:
   - Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
   - Do not add a website if it is merely for entertainment and not really useful for anything.
-  - To avoiding duplications, seach whether the website is already included.
+  - To avoid duplication, search whether the website is already included.
   - If you are a spam/AI account, your pull request is going to be rejected.
   - Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls).
 
-- If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
-- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
 <br>
 
